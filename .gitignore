@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.Python
+
+# Environment variables
+.env
+*.env
+
+# Distribution / build
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Pytest / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Mypy/cache
+.mypy_cache/
+
+# IDE/editor
+.vscode/
+*.code-workspace
+.idea/
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Logs and database
+*.log
+*.sqlite3
+
+# Compiled python files (redundant with __pycache__)
+*.pyc
+
+# Optional: dataset / large files you don't want in repo
+sample_sales_data.csv
